@@ -32,6 +32,8 @@ Ini adalah proyek sederhana untuk melakukan clustering, kemudian hasil clusterin
    - Interpretasi dengan melihat nilai statistik deskriptif tiap cluster.
 10. **Export Data Clustering**
 
+Keseluruhan proses dapat dilihat disini: [Adult Income Clustering](https://github.com/Maoelan/adult-income-clustering-classification/blob/main/%5BClustering%5D%20Submission%20Akhir%20BMLP_Maulana%20Muhammad.ipynb)
+
 Pada clustering ini, Silhouette Score akhir yang didapat adalah **0.71** dengan K (cluster) optimal **4**.
 
 ## Classification
@@ -49,6 +51,8 @@ Pada clustering ini, Silhouette Score akhir yang didapat adalah **0.71** dengan 
      - Logistic Regression
 5. **Tuning Model**
 6. **Analisis Hasil Evaluasi**
+
+Keseluruhan proses dapat dilihat disini: [Adult Income Classification](https://github.com/Maoelan/adult-income-clustering-classification/blob/main/%5BKlasifikasi%5D_Submission_Akhir_BMLP_Maulana%20Muhammad.ipynb)
 
 ### Hasil Klasifikasi Sebelum dan Sesudah Tuning Model
 | Model                                   | Total Accuracy | Weighted F1 Score | Precision | Recall |
