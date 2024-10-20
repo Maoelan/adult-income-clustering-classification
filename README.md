@@ -2,7 +2,7 @@
 
 **Dataset**: [Adult Income Dataset](https://archive.ics.uci.edu/dataset/2/adult)
 
-Ini adalah proyek sederhana untuk melakukan clustering, kemudian hasil clustering tersebut digunakan untuk klasifikasi.
+Ini adalah proyek sederhana untuk melakukan clustering, kemudian hasil clustering tersebut digunakan untuk classification.
 
 ## Clustering
 
